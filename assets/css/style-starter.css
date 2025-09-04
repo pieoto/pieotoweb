@@ -91,6 +91,16 @@ h6 {
     font-family: 'Poppins', sans-serif;
 }
 
+
+
+.logo {
+  height: 50px;  /* adjust height */
+  width: auto;   /* keep proportions */
+  margin-left: -16px;
+}
+
+
+
 .h1,
 h1 {
     font-size: calc(1.375rem + 1.5vw)

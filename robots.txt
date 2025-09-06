@@ -1,0 +1,10 @@
+# Allow all search engines to crawl the site
+User-agent: *
+Allow: /
+
+# Block private folders (if any)
+Disallow: /admin/
+Disallow: /login/
+
+# Point to your sitemap
+Sitemap: https://pieoto.github.io/pieotoweb/sitemap.xml
